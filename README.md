@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ajay Soni, I'm a Competitive Programmer</h1>
-<h5>I am a B.Tech undergraduat from Radharaman Institute of Technology and Science, Bhopal pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.</h5>
+<h1 align="center">Hi 👋, I'm Ajay Soni</h1>
+<h5>I am a B.Tech Student from Radharaman Institute of Technology and Science, Bhopal pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysoni12&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysoni12" /> </p>
 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Android App Development.**
 - 👯 I’m looking to collaborate on **Open Source Contributions.**
 - 👨‍💻 All of my projects are available at [https://github.com/ajaysoni12](https://github.com/ajaysoni12)
-- 💬 Ask me about **c,c++ language and DSA.**
+- 💬 Ask me about **c,c++ language **
 - 📫 How to reach me **soniajay9633@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
