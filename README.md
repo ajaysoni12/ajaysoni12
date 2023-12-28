@@ -1,26 +1,35 @@
 <h1 align="center">Hi 👋, I'm Ajay Soni</h1>
-<h5>Hello! I am a passionate student currently pursuing B.Tech from the Radharaman Institute of Technology and Science. With a keen interest in problem-solving and a knack for programming, I am excited to enhance my skills and knowledge to positively impact the world of technology. </h5>
+<h5> Hello Folks,
 
-<h5>
-Throughout my academic journey, I have gained expertise in C, C++ with STL, and Data Structures and Algorithms. These foundational skills have allowed me to develop a strong understanding of programming principles and problem-solving techniques. I have actively engaged in various coding competitions, honing my skills and expanding my knowledge in the process.
+<br> I'm Ajay Soni, a forward-thinking B.Tech CSE student slated to graduate in 2024 from Radharaman Institute of Technology & Science. My expertise spans C, C++, Java, Data Structures, and Algorithms, and I'm an adept Android App Developer passionate about innovative solutions.
 
-In addition to my proficiency in programming, I am actively involved in Android app development using the native language, Java. This experience has allowed me to explore the world of mobile applications and develop a solid understanding of the Android platform. I am currently working on building an Android project that showcases my skills and will serve as a valuable addition to my resume.
+Key Skills:
+C | C++ | Java | Data Structures | Algorithms
+Android App Development
 
-I participated in coding contests on platforms like LeetCode, GFG, and CodeChef, where I achieved an impressive rank of 3104 out of 23000+ students in LeetCode, 364th rank in GFG, and 244th rank (div 2) in CodeChef. 
+Coding Prowess:
+LeetCode: Rating 1730+
+GeeksforGeeks: Score 2400+ (Solved 900+ problems)
+CodeChef: 2 Star
 
-Feel free to reach out to me via LinkedIn or email. I am always open to new opportunities, connections, and conversations.g. </h5>
+Actively participating in coding contests fuels my dedication to refining problem-solving skills. Currently, I'm immersed in impactful projects like the "Memories Remember App," "Bhopal Metro App," and "Pack Your Bag."
+
+Witness the code behind these projects on my GitHub: @ajaysoni12.
+
+Thank you for considering my profile. I look forward to connecting and exploring new horizons together! 
+</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysoni12&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysoni12" /> </p>
 
 <h3>About Me (Intro) ~ </h3>
 
--->  Skills: C/C++/Core Java/Android App Developement.
-- 🔭 I’m currently working on **Data Structure and Algorithm + Competitive Programming**
+-->  Skills: C/C++/Java/Android App Developement.
+- 🔭 I’m currently working on **Data Structure and Algorithm**
 - 🌱 I’m currently learning **Android App Development.**
 - 👯 I’m looking to collaborate on **Open Source Contributions.**
 - 👨‍💻 All of my projects are available at [https://github.com/ajaysoni12](https://github.com/ajaysoni12)
-- 💬 Ask me about **c,c++ language **
-- 📫 How to reach me **soniajay9633@gmail.com**
+- 💬 Ask me about **C, C++, Java language **
+- 📫 How to reach me **ritscsajaysoni@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
