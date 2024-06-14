@@ -1,34 +1,33 @@
 <h1 align="center">Hi 👋, I'm Ajay Soni</h1>
 <h5> Hello Folks,
 
-<br> I'm Ajay Soni, a forward-thinking B.Tech CSE student slated to graduate in 2024 from Radharaman Institute of Technology & Science. My expertise spans C, C++, Java, Data Structures, and Algorithms, and I'm an adept Android App Developer passionate about innovative solutions.
+<br> I am Ajay Soni, a final-year B.Tech student in Computer Science and Engineering at Radharaman Institute of Technology & Science, graduating in 2024. I am proficient in C, C++, Java, Data Structures, Algorithms, and Android App Development.
 
-Key Skills:
-C | C++ | Java | Data Structures | Algorithms
-Android App Development
+Skills:
+Programming Languages: C, C++, Java
+Core Competencies: Data Structures, Algorithms
+Specialized Skills: Android App Development
 
-Coding Prowess:
-LeetCode: Rating 1730+
-GeeksforGeeks: Score 2400+ (Solved 900+ problems)
-CodeChef: 2 Star
+Achievements in Coding Challenges:
+LeetCode: Rating 1833+
+GeeksforGeeks: Score 2900+ (Solved 950+ problems & 450+ current POTD streak)
+CodeChef: 2 Star (1560+)
 
-Actively participating in coding contests fuels my dedication to refining problem-solving skills. Currently, I'm immersed in impactful projects like the "Memories Remember App," "Bhopal Metro App," and "Pack Your Bag."
+I actively participate in coding contests to enhance my problem-solving abilities. You can explore my projects and code on GitHub: @ajaysoni12.
 
-Witness the code behind these projects on my GitHub: @ajaysoni12.
-
-Thank you for considering my profile. I look forward to connecting and exploring new horizons together! 
+Thanks for considering my profile. I look forward to connecting and exploring new opportunities together!
 </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysoni12&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysoni12" /> </p>
 
 <h3>About Me (Intro) ~ </h3>
 
--->  Skills: C/C++/Java/Android App Developement.
-- 🔭 I’m currently working on **Data Structure and Algorithm**
-- 🌱 I’m currently learning **Android App Development.**
+-->  Skills: C/C++/Java/Data Structures and Algorithm.
+- 🔭 I’m currently working on **Android App Development**
+- 🌱 I’m currently learning **SQLite and MySQL.**
 - 👯 I’m looking to collaborate on **Open Source Contributions.**
 - 👨‍💻 All of my projects are available at [https://github.com/ajaysoni12](https://github.com/ajaysoni12)
-- 💬 Ask me about **C, C++, Java language **
+- 💬 Ask me about **C, C++, Java language**
 - 📫 How to reach me **ritscsajaysoni@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
