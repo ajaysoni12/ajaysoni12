@@ -1,21 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ajay Soni</h1>
-<h3 align="center">I am Ajay Soni, a Graduate B.Tech student in Computer Science and Engineering at Radharaman Institute of Technology & Science. I am proficient in C, C++, Java, Data Structures, Algorithms, and Android App Development</h3>
+<h1 align="center">Hi 👋, I'm Ajay Soni | Associate Consultant @ Streebo</h1>
+<h3 align="center">Hello! I'm Ajay Soni, a 2024 B.Tech graduate in Computer Science and Engineering from Radharaman Institute of Technology & Science. I'm thriving as an Associate Consultant at Streebo (since July 2024), where I specialize in building and training multiple chatbots using advanced AI technologies. Passionate about coding, problem-solving, and creating impactful conversational AI solutions, I'm always eager to learn and contribute to the tech community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysoni12&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysoni12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaysoni12" alt="ajaysoni12" /></a> </p>
+<h3 align="left">🌟 About Me</h3>
 
-- 🔭 I’m currently working on **Backend Technology**
+🎓 Education: B.Tech in Computer Science and Engineering (2024)
 
-- 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **Open Source Contribution**
+💼 Current Role: Associate Consultant at Streebo (July 2024 - Present)
 
-- 💬 Ask me about **C, C++, Java, DSA, Android App Development**
+🔭 Working On: Developing and training AI-powered chatbots using platforms like IBM Watson Assistant, Google Dialogflow, and Streebo's Chatbot Builder
 
-- 📫 How to reach me **soniajay9633@gmail.com**
+🌱 Learning: Advanced Spring Boot, Generative AI, and Large Language Models (LLMs)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HugwDjuN9gC5N_1n1kTQ5clU0AvE2j0r/view?usp=embed_facebook](https://drive.google.com/file/d/1HugwDjuN9gC5N_1n1kTQ5clU0AvE2j0r/view?usp=embed_facebook)
+👯 Open to Collaborate: Open Source Projects, Chatbot Development, Backend Systems
+
+💬 Ask Me About: C, C++, Java, DSA, Android App Development, Spring Boot, Chatbot Development
+
+📫 Email: ritscsajaysoni@gmail.com
+
+📄 📄 Resume: [https://drive.google.com/file/d/1HugwDjuN9gC5N_1n1kTQ5clU0AvE2j0r/view?usp=embed_facebook](https://drive.google.com/file/d/1HugwDjuN9gC5N_1n1kTQ5clU0AvE2j0r/view?usp=embed_facebook)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
